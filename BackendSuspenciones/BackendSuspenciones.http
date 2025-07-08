@@ -1,0 +1,6 @@
+@BackendSuspenciones_HostAddress = http://localhost:5097
+
+GET {{BackendSuspenciones_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
