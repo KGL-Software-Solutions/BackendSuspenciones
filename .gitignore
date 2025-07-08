@@ -1,0 +1,79 @@
+## .NET
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.cache
+*.dbmdl
+*.pdb
+*.mdb
+*.log
+*.tlog
+*.vspscc
+*.vssscc
+
+## Visual Studio
+.vscode/
+.vs/
+launchSettings.json
+
+## Build outputs
+*.dll
+*.exe
+*.app
+*.appx
+*.msi
+*.nupkg
+
+## ASP.NET Core
+wwwroot/
+node_modules/
+dist/
+
+## NuGet
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+project.lock.json
+project.fragment.lock.json
+
+## Logs
+*.log
+
+## Certificate
+*.pfx
+*.p12
+
+## Secrets
+secrets.json
+
+## Env files
+.env
+.env.*
+
+## Rider
+.idea/
+
+## ReSharper
+_ReSharper*/
+*.DotSettings.user
+
+## Git folder temp
+*.orig
+
+## Test results
+TestResults/
+
+## Coverage reports
+coverage/
+*.lcov
+*.coverage
+
+## Others
+*.tmp
+*.bak
+*.old
+*.sln.docstates
